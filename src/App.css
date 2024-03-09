@@ -1,0 +1,5 @@
+.App{
+    background: linear-gradient(to right top, #d16ba5, #ed7485, #f38b67, #e4a955, #c5c65d, #97d075, #63d59a, #00d7c2, #00c6e4, #00afff, #0090ff, #6a5ffb);
+    height: 100vh;
+    width: 100vw;
+}
